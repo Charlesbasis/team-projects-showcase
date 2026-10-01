@@ -4,6 +4,34 @@
 
 ---
 
+## 🛍️ WooCommerce Store (WordPress + Elementor) — "Akrub"
+
+**My contributions:**
+- 🛠️ **Web Development** — Full storefront with product categories, cart, and checkout for a Bangladeshi lifestyle brand
+- 🔧 **Ongoing Maintenance** — Updates, fixes, and support to keep the store fast and stable
+- ⚙️ **Order Automations** — Streamlined order handling to cut manual work
+
+**Tech:** WordPress • WooCommerce • Elementor • PHP
+
+**Live:** [akrub.com](https://akrub.com/)
+
+---
+
+## 🤖 Content Automation Platform (Laravel + AI) — "Nipirito"
+
+**My contributions:**
+- 🌐 **Website Topic Scraping** — Fetches topics and categories from source URLs without AI, with a paginated table, deletion, and CSV import/export
+- 🗓️ **Bulk Scheduling** — Schedule multiple website posts at once, with a "Not Posted" default filter and a queued publish job
+- ✨ **AI Rewrite & Auto-Post** — Laravel AI integration for title rewriting and auto-generated posts, with loading states and error handling
+- 📝 **AI Usage Logging** — Model-usage logging and cleanup of legacy AI code
+- 🧹 **Data Retention** — Automated 3-day retention that deletes older records
+- 🖼️ **Media Handling** — Image previews and a 20 MB upload limit
+- 📱 **Responsive Dashboard** — Mobile-friendly post and topic management with a public index page and a Bangla-localised footer
+
+**Tech:** Laravel • Laravel AI • Queued Jobs
+
+---
+
 ## 🛒 E-Commerce Manager (Next.js + Laravel)
 
 **My contributions:**

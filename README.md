@@ -122,4 +122,4 @@ I specialize in:
 - 🎨 **WordPress customization** — Plugins, themes, headless setups
 - 🔗 **Third-party integrations** — Payment gateways, social media, CRMs
 
-<a href="mailto:charlesvhow@gmail.com">📧 Contact me for your project</a>
+<a href="mailto:info@cvhowlader.com">📧 Contact me for your project</a>
